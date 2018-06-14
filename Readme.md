@@ -1,4 +1,12 @@
 
+# Pyber
+
+- Urban areas make up for the majority of total fares at 62.7%, and 68.4% of total rides, but yield the lowest average fares.
+- Rural areas generally have the highest average fares, but account for the lowest percentage of total fares (6.8%), and smallest percentages of rides, and drivers
+- Suburban areas account for 30.5% of the total fares, and 26.3% of the total rides, but are only represented by 16.5% of total drivers.  Coupled with the fact that the average fares are generally higher in suburban areas than urban areas, this may suggest that suburban areas could be better served by more drivers, resulting in higher profit from those areas.
+
+
+
 
 ```python
 # dependencies
@@ -135,7 +143,7 @@ plt.show()
 ```
 
 
-![png](output_5_0.png)
+![png](output_6_0.png)
 
 
 
@@ -153,7 +161,7 @@ plt.show()
 ```
 
 
-![png](output_6_0.png)
+![png](output_7_0.png)
 
 
 
@@ -171,7 +179,7 @@ plt.show()
 ```
 
 
-![png](output_7_0.png)
+![png](output_8_0.png)
 
 
 
@@ -188,5 +196,5 @@ plt.show()
 ```
 
 
-![png](output_8_0.png)
+![png](output_9_0.png)
 
